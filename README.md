@@ -21,7 +21,6 @@ _G.ImageColor = Color3.fromRGB(180, 180, 180)
 _G.ElementTextColor = Color3.fromRGB(180, 180, 180)
 _G.ElementThemeColor = Color3.fromRGB(174, 23, 158)
 --end
-
 local VARIABLESMADEBYTHISUI = {
     [" Made By "] = "socute#8056",
     [" New Editable Gui Support Mobile Updated By "] = "socute#8056"
