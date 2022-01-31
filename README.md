@@ -13,14 +13,15 @@ end
 
 _G.TopBackgroundColor = Color3.fromRGB(40, 40, 40)
 _G.TopTextColor = Color3.fromRGB(150, 150, 150)
-_G.HubTitleColor = Color3.fromRGB(55, 122, 204)
+_G.HubTitleColor = Color3.fromRGB(248, 91, 253)
 _G.WindowBackgroundColor = Color3.fromRGB(40, 40, 40)
 _G.TabWindowColor = Color3.fromRGB(30, 30, 30)
 _G.TabTextColor = Color3.fromRGB(180, 180, 180)
 _G.ImageColor = Color3.fromRGB(180, 180, 180)
 _G.ElementTextColor = Color3.fromRGB(180, 180, 180)
-_G.ElementThemeColor = Color3.fromRGB(39, 86, 144)
+_G.ElementThemeColor = Color3.fromRGB(174, 23, 158)
 --end
+
 local VARIABLESMADEBYTHISUI = {
     [" Made By "] = "socute#8056",
     [" New Editable Gui Support Mobile Updated By "] = "socute#8056"
